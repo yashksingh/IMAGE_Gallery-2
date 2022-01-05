@@ -24,7 +24,7 @@ Benefits of galleries are disputed. There is general agreement that some galleri
 
 ## FAIR USE
 
-An important element of the fair use doctrine is ...the amount and substantiality of the portion used in relation to the copyrighted work as a whole.... In simple terms this means that copying one page from a comic book may be okay but copying 12 of them all at one time is probably not.
+An important element of the fair use doctrine is the amount and substantiality of the portion used in relation to the copyrighted work as a whole. In simple terms this means that copying one page from a comic book may be okay but copying 12 of them all at one time is probably not.
 
 This element is extremely important when fair-use images are used in galleries. If one image, say, from a copyrighted book, is used in an article, it may be fair use. Then another image from the same book is used in another article and so on. If all of these images from the same book appear in a single gallery, it is almost certainly not fair use.
 
